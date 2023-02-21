@@ -39,3 +39,8 @@ h1 {
     color: white;
     padding: 10px;
   }
+  .submit-section{
+      text-align: center;
+      border-bottom: 1px solid white;
+      padding-bottom: 10px;
+  }
